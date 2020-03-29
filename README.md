@@ -7,6 +7,13 @@ You need the following :
 2. Library: **opencv-4.0.0**
 3. Environment Variable: **OPENCV_DIR**
 
+# List of examples
+1.
+2.
+3.
+4.
+5.
+
 # References
 Examples are made using course materials and books
 1. [Machine vision - course materials](http://tnt.etf.rs/~mv/)
