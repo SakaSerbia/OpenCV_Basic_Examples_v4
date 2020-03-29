@@ -10,4 +10,4 @@ You need the following :
 # References
 Examples are made using course materials and books
 1. [Machine vision - course materials](http://tnt.etf.rs/~mv/)
-2. Adrian Kaehler and Gary Bradski, Learning OpenCV 3 Computer Vision in C++ withthe OpenCV Library
+2. Adrian Kaehler and Gary Bradski, Learning OpenCV 3 - Computer Vision in C++ with the OpenCV Library
