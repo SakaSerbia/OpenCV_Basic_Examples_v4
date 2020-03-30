@@ -19,3 +19,4 @@ You need the following :
 Examples are made using course materials and books
 1. [Machine vision - course materials](http://tnt.etf.rs/~mv/)
 2. Adrian Kaehler and Gary Bradski, Learning OpenCV 3 - Computer Vision in C++ with the OpenCV Library
+3. [Davide Pesce, Reading dice with OpenCV – Part 1](https://www.davidepesce.com/2019/09/06/dice-reader-part-1/)
