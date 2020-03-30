@@ -12,11 +12,14 @@ You need the following :
 1. Read image
 2. Read camera
 3. Detect number of dots on dices
-4.
+4. Track red circle on images
 5.
 
 # References
-Examples are made using course materials and books
+Examples are made using course materials, books and online resource
 1. [Machine vision - course materials](http://tnt.etf.rs/~mv/)
 2. Adrian Kaehler and Gary Bradski, Learning OpenCV 3 - Computer Vision in C++ with the OpenCV Library
 3. [Davide Pesce, Reading dice with OpenCV – Part 1](https://www.davidepesce.com/2019/09/06/dice-reader-part-1/)
+4. [Detect red circles in an image using OpenCV](https://solarianprogrammer.com/2015/05/08/detect-red-circles-image-using-opencv/)
+5. [Find the Center of a Blob using OpenCV](https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/)
+6. [OpenCV modules](https://docs.opencv.org/4.0.0/)
