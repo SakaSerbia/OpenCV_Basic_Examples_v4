@@ -6,11 +6,12 @@ You need the following :
 1. Software: **Visual Studio 2017**
 2. Library: **opencv-4.0.0**
 3. Environment Variable: **OPENCV_DIR**
+4. Debug|x64: **OpenCV_v400_dbg.props**
 
 # List of examples
-1.
-2.
-3.
+1. Read image
+2. Read camera
+3. Detect number of dots on dices
 4.
 5.
 
