@@ -14,7 +14,7 @@ You need the following :
 3. Detect number of dots on dices
 4. Track red circle on images
 5. Affine Transformation
-6. 
+6. Perspective transform
 7. 
 
 # References
