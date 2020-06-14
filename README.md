@@ -7,6 +7,7 @@ You need the following :
 2. Library: **opencv-4.0.0**
 3. Environment Variable: **OPENCV_DIR**
 4. Debug|x64: **OpenCV_v400_dbg.props**
+5. Release|x64: **OpenCV_v400_rel.props**
 
 # List of examples
 1. Read image
@@ -15,7 +16,9 @@ You need the following :
 4. Track red circle on images
 5. Affine Transformation
 6. Perspective transform
-7. 
+7. Affine Transformation with Trackbar
+8. Perspective transform - Mouse warp
+9.
 
 # References
 Examples are made using course materials, books and online resources
