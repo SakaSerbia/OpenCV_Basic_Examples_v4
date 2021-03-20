@@ -1,13 +1,14 @@
 # About 
-Here are some basic examples of using library OpenCV v4.0.0 writen in Visual Studio 2017. These examples were done while I was preparing my exam and project from the subject [Machine vision](http://tnt.etf.rs/~mv/) on master studies, Department of Electronics, School of Electrical Engineering, University of Belgrade.
+Here are some basic examples of using library OpenCV v4.5.1 writen in Visual Studio 2019. These examples were done while I was preparing my exam and project from the subject [Machine vision](http://tnt.etf.rs/~mv/) on master studies, Department of Electronics, School of Electrical Engineering, University of Belgrade.
 
 # Installation & settings
 You need the following :
-1. Software: **Microsoft Visual Studio 2017**
-2. Library: **opencv-4.0.0**
+1. Software: **Microsoft Visual Studio 2019**
+2. Library: **opencv-4.5.1**
 3. Environment Variable: **OPENCV_DIR**
-4. Debug|x64: **OpenCV_v400_dbg.props**
-5. Release|x64: **OpenCV_v400_rel.props**
+4. System variables: Path add **%OPENCV_DIR%\bin**
+5. Debug|x64: **OpenCV_v451_dbg.props**
+6. Release|x64: **OpenCV_v451_rel.props**
 
 # List of examples
 1.  Read image
@@ -22,7 +23,6 @@ You need the following :
 10. Calibration using 3D calibration object
 11. Calibration of camera with debug
 12. Position estimation with single camera
-13.
 
 # References
 Examples are made using course materials, books and online resources
